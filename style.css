@@ -1,0 +1,12 @@
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.btm-icon {
+  height: 5vh;
+  padding: 1rem 0.5rem;
+}
